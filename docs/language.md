@@ -6,6 +6,7 @@
 - Hire a translator for the event
 - Hire a Sign Language Interpreter
 - Ask about spoken languages before the event
+- Provide printed and/or online materials in different languages, such as videos with subtitles and flyers
 
 ## References
 

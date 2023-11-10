@@ -31,5 +31,6 @@ Raise awareness of different groups of people, barriers to entry, and possible s
 ## Index
 
 - [Family Status and Care Responsibilities](docs/family.md)
+- [Immigration Status](docs/immigration.md)
 - [Language](docs/language.md)
 - [Neurodiversity](docs/neurodiversity.md)
