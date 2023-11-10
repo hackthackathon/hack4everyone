@@ -38,4 +38,5 @@ Raise awareness of different groups of people, barriers to entry, and possible s
 - [Neurodiversity](docs/neurodiversity.md)
 - [Physical Disabilities](docs/physical.md)
 - [Religion](docs/religion.md)
+- [Rural vs. Urban](docs/rural_urban.md)
 - [Socioeconomic Background](socioeconomic_background.md)
