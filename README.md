@@ -37,3 +37,5 @@ Raise awareness of different groups of people, barriers to entry, and possible s
 - [Language](docs/language.md)
 - [Neurodiversity](docs/neurodiversity.md)
 - [Socioeconomic Background](socioeconomic_background.md)
+- [Physical Disabilities](docs/physical.md)
+- [Religion](docs/religion.md)

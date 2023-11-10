@@ -7,6 +7,11 @@
 - Hire a Sign Language Interpreter
 - Ask about spoken languages before the event
 - Provide printed and/or online materials in different languages, such as videos with subtitles and flyers
+- Remind speakers to:
+  - Speak slowly and clearly
+  - Always use a microphone
+  - Describe images and explain slide content
+  - Enable subtitles
 
 ## References
 
