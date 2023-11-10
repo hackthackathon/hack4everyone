@@ -39,5 +39,6 @@ Raise awareness of different groups of people, barriers to entry, and possible s
 - [Physical Disabilities](docs/physical.md)
 - [Religion](docs/religion.md)
 - [Rural vs. Urban](docs/rural_urban.md)
+- [Seniority](docs/seniority.md)
 - [Socioeconomic Background](docs/socioeconomic_background.md)
 - [Virtual vs. In-person](docs/virtual_in-person.md)
