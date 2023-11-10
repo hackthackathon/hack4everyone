@@ -27,3 +27,7 @@ Raise awareness of different groups of people, barriers to entry, and possible s
 - Being more inclusive needs more awareness on what diversity is, what are the different types of diversity
 - To make more inclusive hackathons, consultations with diversity experts can be an option to upgrade the hackathons (eg workplace inclusion consultants)
 - Hackathon organizers are often bound with a limited budget and with a high efficiency requirement, leaving opportunities for inclusiveness limited. Awareness raising needs to move to the design phase of the hackathon and the budgeting.
+
+## Index
+
+- [Family Status and Care Responsibilities](docs/family.md)
