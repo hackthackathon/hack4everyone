@@ -31,7 +31,9 @@ Raise awareness of different groups of people, barriers to entry, and possible s
 ## Index
 
 - [Dietary Restrictions](docs/dietary_restrictions.md)
+- [Educational Background](docs/educational_background.md)
 - [Family Status and Care Responsibilities](docs/family.md)
 - [Immigration Status](docs/immigration.md)
 - [Language](docs/language.md)
 - [Neurodiversity](docs/neurodiversity.md)
+- [Socioeconomic Background](socioeconomic_background.md)
